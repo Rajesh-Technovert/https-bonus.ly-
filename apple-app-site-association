@@ -1,0 +1,154 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+				"appID": "UUXQ423VD9.com.edcast.deloitteApp",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.necole",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.nse",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "W23DG2L7E9.com.swissre.SS0",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/team/*", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.swissre.SS0",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/team/*", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.nasscomApp",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "B8QADL5LAG.com.abg.gvc",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.mobileApp",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "JNYJZ5GEP4.com.exxonmobil.edcast",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "G6Y7DVY667.com.edcast.diageo",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.schwab",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.spark",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "RSQ4KY3VWB.org.christushealth.genesis",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "TKSCN9ULB9.com.deloitte.cura",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "T6B3XGTLQ4.com.edcast.moneyversity",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "4XR95363YW.com.edcast.tldr",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.sc",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.adaptandrise",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "866VGW5D9J.ae.adia.edcast",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "7BH6U568TZ.com.fanniemae.fmu",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "G4FTR2U5K5.com.chanel.corp.learntech",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.maverick",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.iob",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "Q9D639N3L5.com.edcast.futureskillsprime",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.preview",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "W963A5H8T4.com.jardines.connect",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "LT24MVZ27R.com.edcast.tmtcloud",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "5347883SU6.com.vmware.learninghub",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "KCMF2PRRMF.com.edcast.gloobal",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.learningone",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/team/*", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.mlhconnect",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "7BH6U568TZ.com.edcast.enterprise",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "37NRGZ5CTX.com.edcast.developu",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "EEE5VV3E6T.com.thermofisher.mobile.ios.edcast",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "C86Q4AVWK3.com.edcast.wiseup",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UYZQLBFRJB.com.takeda.bloom",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			},
+			{
+				"appID": "UUXQ423VD9.com.edcast.edcastMobile",
+				"paths": ["/insights/*", "/video_streams/*", "/channel/*", "/teams/*", "/pathways/*", "/journey/*", "/discover/*", "/me/*", "/leaderboard/*", "/settings/*", "/api/v2/users/*", "/notifications", "/a/*", "/@*", "/"]
+			}
+		]
+	}
+}
